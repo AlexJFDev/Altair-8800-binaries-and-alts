@@ -1,0 +1,7 @@
+LDA,0c,00
+MOV,b,a
+LDA,0d,00
+SUB,000
+STA,0e,00
+HLT
+dat,04,03
