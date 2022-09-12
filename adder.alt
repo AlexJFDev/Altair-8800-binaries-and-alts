@@ -1,0 +1,8 @@
+# This program adds together the value of the 0c and 0d bytes and stores the product in the 0e byte
+LDA,0c,00
+MOV,b,a
+LDA,0d,00
+ADD,000
+STA,0e,00
+HLT
+dat,03,04
