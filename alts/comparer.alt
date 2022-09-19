@@ -9,4 +9,4 @@ HLT
 MOV,a,b
 STA,19,00
 HLT
-dat,6b,6b,00
+dat,03,05,00
