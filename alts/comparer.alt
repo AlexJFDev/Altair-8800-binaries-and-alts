@@ -1,12 +1,12 @@
-LDA,17,00
-MOV,b,a
-LDA,18,00
-CMP,000
-JZ,16,00
-JC,12,00
-STA,19,00
-HLT
-MOV,a,b
-STA,19,00
-HLT
-dat,03,05,00
+LDA,17,00 # Load byte 0017
+MOV,b,a # Copy A to B
+LDA,18,00 # Load byte 0018
+CMP,000 # Compare B to A
+JZ,16,00 # Jump if zero to 0016
+JC,12,00 # Jump if carry to 0016
+STA,19,00 # Store A to byte 0019
+HLT # Stop
+MOV,a,b # Move B to A
+STA,19,00 # Store A to byte 0019
+HLT # STOP
+dat,03,05,00 # 3,5,0

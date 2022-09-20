@@ -1,7 +1,8 @@
-LDA,0c,00
-LHLD,0d,00
-ADD,100
-ADD,101
-STA,0f,00
-HLT
-dat,05,f0,05
+# This program adds 3 bytes together
+LDA,0c,00 # Load byte 000c
+LHLD,0d,00 # Load bytes 000d, 000e to H&L
+ADD,100 # Add H to A
+ADD,101 # Add L to A
+STA,0f,00 # Store to 0f
+HLT # Stop
+dat,05,f0,05 # 5,240

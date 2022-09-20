@@ -1,8 +1,8 @@
 # This program adds together the value of the 0c and 0d bytes and stores the product in the 0e byte
-LDA,0c,00
-MOV,b,a
-LDA,0d,00
-ADD,000
-STA,0e,00
-HLT
-dat,03,04
+LDA,0c,00  # Load byte 000c
+MOV,b,a # Copy A to B
+LDA,0d,00 # Load byte 000d
+ADD,000 # Add B to A
+STA,0e,00 # Store to byte 000e
+HLT # Stop
+dat,03,04 # 3,4
