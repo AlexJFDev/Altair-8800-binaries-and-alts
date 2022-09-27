@@ -1,0 +1,9 @@
+LXI,10,50,00 # Load 0050 into register pair HL
+CMP,110 # Compare Accumulator to memory in HL
+CC,0B,00 # Call 000B if carry bit is 1
+INX,10 # Increment HL
+JMP,03,00 # Jump to 0003
+MOV,d,h # Copy h to d
+MOV,e,l # Copy l to e
+LDAX,1 # Accumulator loaded with memory in DE pair
+RET # Return
