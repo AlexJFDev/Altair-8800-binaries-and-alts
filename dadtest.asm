@@ -1,0 +1,3 @@
+MVI L,005h
+DAD H
+JMP 002h

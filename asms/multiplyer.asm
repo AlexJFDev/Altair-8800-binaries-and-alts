@@ -1,23 +1,13 @@
 ; CODE
-        LDA X
-        LHLD YADDR
-        XCHG 
-        LHLD XADDR
-LOOP:   INR C
+        LDA Y
         MOV B,A
-        MOV A,C
-        XCHG
-        CMP M
+        LDA X
+        MOV E,A
+LOOP:   DAD D
+        DCR B
         JZ END
-        MOV A,B
-        XCHG
-        ADD M
         JMP LOOP
 END:    JMP END
 ; DATA
 X:      DB 20h
 Y:      DB 03h
-        NOP
-XADDR:  DB 001bh
-        NOP
-YADDR:  DB 001ch
