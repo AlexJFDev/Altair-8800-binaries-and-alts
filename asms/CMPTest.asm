@@ -1,0 +1,5 @@
+MVI A, X
+MVI B, Y
+CMP B
+X: DB 0Fh
+Y: DB 04h

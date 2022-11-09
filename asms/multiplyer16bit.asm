@@ -1,7 +1,7 @@
 	    ORG	    0000h	; Set Program Counter to address 0
-START:	MVI	    A,0FAh	; Multiplier    (-1) to A   Register
-	    MVI	    D,009h	; Multiplicand (127) to D,E Registers
-	    MVI	    E,000h
+START:	MVI	    A,0FAh	; Multiplier (250) to A   Register
+	    MVI	    E,009h	; Multiplicand (9) to D,E Registers
+	    MVI	    D,000h  ; Clear D Register
 	    LXI	    H,000h	; Clear H,L Registers to initialize Partial Product
 	    MVI     B,008h	; Iteration Count (8) to B Register
 LOOP:	DAD	    H	    ; Shift Partial Product left into Carry (H&L)
