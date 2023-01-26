@@ -1,0 +1,71 @@
+<circuit Speed_per="100" noLinAcc="5" Speed_sps="1000000" type="simulide_0.4" reactStep="50" animate="0" Simu_Step_nS="1000">
+
+Unique  Id: Fixed Voltage-919: 
+Circuit Id: E
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="E" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="228" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-919" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-924: 
+Circuit Id: 8
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="8" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="132" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-924" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-928: 
+Circuit Id: 7
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="7" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="116" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-928" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-930: 
+Circuit Id: 9
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="9" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="148" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-930" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-932: 
+Circuit Id: 4
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="4" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="68" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-932" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-936: 
+Circuit Id: 5
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="5" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="84" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-936" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-940: 
+Circuit Id: 1
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="1" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="20" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-940" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Led-941: 
+Circuit Id: Led-35
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="Led-35" valLabelx="0" Resistance="0.6" x="-256" Color="0" Threshold="1" vflip="1" Grounded="true" labelx="-16" y="132" circRot="0" valLabely="0" mainComp="false" valLabRot="0" MaxCurrent="0.03" itemtype="Led" hflip="1" labely="-24" objectName="Led-941" rotation="0" circPos="0,0" labelrot="0" Show_id="false"/>
+
+Unique  Id: Fixed Voltage-942: 
+Circuit Id: 2
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="2" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="36" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-942" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-944: 
+Circuit Id: F
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="F" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="244" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-944" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-945: 
+Circuit Id: D
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="D" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="212" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-945" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-949: 
+Circuit Id: B
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="B" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="180" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-949" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-952: 
+Circuit Id: C
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="C" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="196" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-952" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-961: 
+Circuit Id: 6
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="6" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="100" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-961" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-962: 
+Circuit Id: 0
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="0" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="4" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-962" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-965: 
+Circuit Id: A
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="A" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="164" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-965" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+
+Unique  Id: Fixed Voltage-967: 
+Circuit Id: 3
+<item boardRot="-1e+06" boardPos="-1e+06,-1e+06" id="3" valLabelx="-16" x="-384" Unit=" V" vflip="1" labelx="-3" y="52" circRot="4.22803417871141e-307" valLabely="8" mainComp="false" Show_Volt="false" valLabRot="0" itemtype="Fixed Voltage" hflip="1" labely="-6" objectName="Fixed Voltage-967" rotation="0" circPos="0,0" Out="false" labelrot="0" Show_id="true" Voltage="5"/>
+ 
+</circuit>
